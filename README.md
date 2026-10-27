@@ -1,10 +1,10 @@
 # Hoja de Vida
 
 ## Brandon Parada Lache
-**Profesión:** _Tu profesión_
+**Profesión**: Analista y desarrollador de software
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [brandonparadalache@gmail.com](brandonparadalache@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral

@@ -5,7 +5,7 @@
 
 ## 📞 Contacto
 - **Email:** [brandonparadalache@gmail.com](brandonparadalache@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [www.linkedin.com/in/brandon-parada-lache-316a40446](www.linkedin.com/in/brandon-parada-lache-316a40446https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_

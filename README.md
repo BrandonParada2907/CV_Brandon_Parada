@@ -9,8 +9,6 @@
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 

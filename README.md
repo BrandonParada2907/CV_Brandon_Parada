@@ -15,8 +15,8 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _( EN PROCESO)_
+- Análisis y desarrollo de software 
 
 ## 💡 Habilidades
 - **Habilidad 1**

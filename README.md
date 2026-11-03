@@ -13,10 +13,8 @@ _Comerciante_
 - **LinkedIn:** [Carlos Mora](https://www.linkedin.com/in/carlos-mora-1739a23a2/)
 
 ## 🏢 Experiencia Laboral
-### **Comerciante independiente** _(2023 - Actualidad)_
-- Gestión y administración de ventas de manera independiente a través de internet.
-- Atención al cliente, manejo de canales digitales y logística de entrega de productos.
-
+### **vendedor independiente** _(2025-actual)_
+- Comercialización compra y reventa de artículos tecnológicos
 ### **Tugo** _(2022 - 2023)_
 - Coordinador de logistica
 - Coordinar y supervisar el proceso logístico, control de inventarios y almacenamiento. 
